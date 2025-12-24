@@ -1,1 +1,2 @@
-# DemoIslandHUD
+這是一個給電腦寫的一個HUD項目，内置了一個比較美觀的Island，未來大概率也不會更新，凑合用吧
+update:12,24
